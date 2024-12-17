@@ -1,0 +1,22 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+.venv/
+env/
+*.env
+*.env.*
+
+# Poetry virtualenv cache
+.cache/
+poetry.lock
+
+# Python packaging
+dist/
+build/
+*.egg-info/
