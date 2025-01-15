@@ -27,8 +27,7 @@ class LoginBot:
 
         # Start driver
         self.driver = webdriver.Chrome(service=service, options=options)
-  
-  
+
     def login(self):
         try:
             self.driver.get(self.config.url)
