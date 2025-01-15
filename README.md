@@ -6,6 +6,9 @@ This project demonstrates how to run RPA (Robotic Process Automation) scripts.
 
 - Python 3.8 or higher
 - Poetry (Python package manager)
+  ```bash
+  pipx install poetry
+  ```
 - Git
 
 ## Installation
